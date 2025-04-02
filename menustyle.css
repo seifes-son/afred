@@ -100,9 +100,9 @@ section{
     0 0 15px #e4bc70,
     0 0 20px #e4bc70,
     0 0 40px #e4bc70,
-    0 0 60px #ff0000,
+    0 0 60px #512a23,
     0 0 10px #e4bc70,
-    0 0 98px #ff0000;
+    0 0 98px #512a23;
     animation: blink 3s infinite;
    }
 
@@ -110,7 +110,7 @@ section{
     20%,
     40%,
     55%{
-      color: #111;
+      color: #512a23;
       text-shadow: none;
     }
 
@@ -127,9 +127,9 @@ section{
         0 0 15px #e4bc70,
         0 0 20px #e4bc70,
         0 0 40px #e4bc70,
-        0 0 60px #ff0000,
+        0 0 60px #512a23,
         0 0 10px #e4bc70,
-        0 0 98px #ff0000;
+        0 0 98px #512a23;
         color:#fff;
     }
 
@@ -167,7 +167,7 @@ section{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background:url(afr3.png) no-repeat;
+    background:url(afra.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -183,7 +183,7 @@ section{
 .home ul li{
     display: flex;
     padding: 19px 20px;
-    color: #fff;
+    color: #512a23;
     margin: 5px 0;
     font-size: 2rem;
 }
@@ -202,7 +202,7 @@ section{
 
 
 .footer{
-    background: var(--black);
+    background: #512a23;
     text-align: center;
 
 }
@@ -354,7 +354,7 @@ section{
         display: flex;
         justify-content: center;
         align-items: center;
-        background:url(afr3.png) no-repeat;
+        background:url(afra.png) no-repeat;
         background-size: cover;
         background-position: center;
     }
